@@ -6,7 +6,7 @@
 ### 🔧 Steps to Get Started
 
 - Download or clone this repository to your local machine:  
-  👉 https://github.com/afin-nafsan/-Face-based-Attendance-system-using-Python-and-OpenCV
+  👉 https://github.com/afin-nafsan/Face-based-Attendance-system-using-Python-and-OpenCV
 - Open terminal and run:  
 - Create a `TrainingImage` folder inside the project directory.
 - Open `attendance.py` and `automaticAttendance.py`, and update any file paths according to your system.
@@ -27,16 +27,16 @@
 ### 📷 Screenshots
 
 #### 🧑‍💻 Simple UI  
-<img src='https://raw.githubusercontent.com/afin-nafsan/-Face-based-Attendance-system-using-Python-and-OpenCV/master/Project%20Snap/1.PNG'>
+<img src='https://raw.githubusercontent.com/afin-nafsan/Face-based-Attendance-system-using-Python-and-OpenCV/master/Project%20Snap/1.PNG'>
 
 #### 📸 While Taking Image  
-<img src='https://raw.githubusercontent.com/afin-nafsan/-Face-based-Attendance-system-using-Python-and-OpenCV/master/Project%20Snap/2.PNG'>
+<img src='https://raw.githubusercontent.com/afin-nafsan/Face-based-Attendance-system-using-Python-and-OpenCV/master/Project%20Snap/2.PNG'>
 
 #### 🎯 While Taking Attendance  
-<img src='https://raw.githubusercontent.com/afin-nafsan/-Face-based-Attendance-system-using-Python-and-OpenCV/master/Project%20Snap/3.PNG'>
+<img src='https://raw.githubusercontent.com/afin-nafsan/Face-based-Attendance-system-using-Python-and-OpenCV/master/Project%20Snap/3.PNG'>
 
 #### 📁 Attendance in Tabular Format  
-<img src='https://raw.githubusercontent.com/afin-nafsan/-Face-based-Attendance-system-using-Python-and-OpenCV/master/Project%20Snap/4.PNG'>
+<img src='https://raw.githubusercontent.com/afin-nafsan/Face-based-Attendance-system-using-Python-and-OpenCV/master/Project%20Snap/4.PNG'>
 
 ---
 
